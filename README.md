@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hey there, I'm Evan
+I'm a computer science and public policy student at the University of Chicago. I'm passionate about solving complex problems related to social impact, and enjoy working across different topic areas. Before this, I worked in **impact evaluation**, at **Mathematica**, using **Stata and R** to analyze survey and administrative data for organizations like the Milennium Challenge Corporation and the Gates Foundation. I then transitioned to **Vera Solutions**, working with nonprofits and foundations to streamline their **impact data management** using **Salesforce and Tableau**. Now, I’m expanding my expertise in **software development and machine learning**, exploring new ways to solve problems with **Python and SQL**.
 
-<!--
-**evanfantozzi/evanfantozzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I'm Working On  
+- **Coursework in Databases, ML, and GIS** – Continuously learning to deepen my technical skills.  
+- **Affordable Housing and Green Space Equity in Chicago** – Using open-source map data and scraped reviews from Google and Yelp, my team developed an Accessibility Index that quantifies  affordable housing units' access to high-quality green spaces in Chicago. 
 
-Here are some ideas to get you started:
+## 🌱 What I'm Looking For  
+- Opportunities to contribute to small/mid-sized organizations that focus on social impact.  
+- Mentorship and collaboration, especially in fast-paced, technical environments.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Let's connect!   
