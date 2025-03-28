@@ -3,7 +3,7 @@ I'm a computer science and public policy student at the University of Chicago. I
 
 ## 🚀 What I'm Working On  
 - **Coursework in Databases, ML, and GIS** – Continuously learning to deepen my technical skills.  
-- **Affordable Housing and Green Space Equity in Chicago** – Using open-source map data and scraped reviews from Google and Yelp, my team developed an Accessibility Index that quantifies  affordable housing units' access to high-quality green spaces in Chicago. 
+- **Affordable Housing and Green Space Equity in Chicago** – Using open-source map data and scraped reviews from Google and Yelp, my team developed an accessibility index to quantify affordable housing units' access to high-quality green spaces in Chicago. 
 
 ## 🌱 What I'm Looking For  
 - Opportunities to contribute to small/mid-sized organizations that focus on social impact.  
