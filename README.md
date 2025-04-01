@@ -4,7 +4,7 @@ I'm a computer science and public policy student at the University of Chicago. I
 ## 🚀 What I'm Working On  
 - **Coursework in Databases, ML, and GIS** – Working to deepen my technical skills.
 - [**Spotify Map**](https://github.com/evanfantozzi/spotify_map) – Building an app with **Flask and Python** to log into Spotify, retrieve a user's top artists, then display a list of those artists and where they're from, using APIs from Spotify, MusicBrainz, and OpenStreetMaps.
-- **Affordable Housing and Green Space Equity in Chicago** – Using open-source map data and scraped reviews from Google and Yelp, my team developed an accessibility index to quantify affordable housing units' access to high-quality green spaces in Chicago. 
+- [**Affordable Housing and Green Space Equity in Chicago**](https://github.com/evanfantozzi/GreenSpaceAccess) – Using open-source map data and scraped reviews from Google and Yelp, my team developed an accessibility index to quantify affordable housing units' access to high-quality green spaces in Chicago. 
 
 ## 🌱 What I'm Looking For  
 - Opportunities to contribute to small/mid-sized organizations that focus on social impact.  
