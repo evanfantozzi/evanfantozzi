@@ -6,7 +6,7 @@ I'm a computer science and public policy student at the University of Chicago. I
 
 🎧 [**Spotify Map**](https://github.com/evanfantozzi/spotify_map) – Building an app with **Flask and Python** allowing Spotify users to map where their favorite artists are from, across the world. I pulled data from APIs from Spotify, MusicBrainz, and OpenStreetMaps.
 
-🎤 [**Identifying Propaganda Techniques in Tweets**] - Building a ML model to detect progaganda in political tweets. More on this soon! 
+🎤 **Identifying Propaganda Techniques in Tweets** - Building a ML model to detect progaganda in political tweets. More on this soon! 
 
 ## Past Projects
 🏡 [**Affordable Housing and Green Space Equity in Chicago**](https://github.com/evanfantozzi/GreenSpaceAccess) – Used **Python and Dash** to scrape open-source map data and reviews from Google and Yelp on parks and fields in Chicago, developing an accessibility index to quantify affordable housing units' access to high-quality green spaces in Chicago. 
