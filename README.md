@@ -4,7 +4,7 @@ I'm a computer science and public policy student at the University of Chicago. I
 ## What I'm Working On  
 📚 [**Coursework in Computer Science, Databases, ML, and GIS**](https://capp.uchicago.edu/)
 
-🎧 [**Spotify Map**](https://github.com/evanfantozzi/spotify_map) – Building an app with **Django and Python** allowing Spotify users to map where their favorite artists are from, across the world. I pulled data from APIs from Spotify, MusicBrainz, and OpenStreetMaps. Working version running [here](www.evanfantozzi.pythonanywhere.com) (message me to be added as a beta user)!
+🎧 [**Spotify Map**](https://github.com/evanfantozzi/spotify_map) – Building an app with **Django and Python** allowing Spotify users to map where their favorite artists are from, across the world. I pulled data from APIs from Spotify, MusicBrainz, and OpenStreetMaps. Working version running [here](https://www.evanfantozzi.pythonanywhere.com) (message me to be added as a beta user)!
 
 🎤 **Identifying Propaganda Techniques in Tweets** - Building a ML model to detect progaganda in political tweets. More on this soon! 
 
