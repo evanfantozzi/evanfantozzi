@@ -10,7 +10,7 @@ Currently, I work as a Research Assistant at the **TMW Center for Early Learning
 
 🌳 [**Chicago Activity Finder**](https://github.com/evanfantozzi/ChicagoActivities) – A web app built with **Flask** and **SQLite** that addresses limitations with existing municipal websites, helping residents of Chicago easily find city-sponsored programming near them. Users can filter by distance, activity types, and age groups, using an interactive interface with Leaflet maps and geolocation. The app scrapes real-time data from the Chicago Park District API, deduplicates activities, and supports paginated results with dynamic filtering. Check out the [live version here](https://chicagoactivities.onrender.com).
 
-📜 **OpenPeru** - Core team member of a civic tech project promoting government transparency in Peru. My role focuses on building a pipeline to scrape and extract key information from Peruvian congressional documents, building a compreshensive database of bills and other legislative actions. 
+📜 **OpenPeru** - Core team member of a civic tech project promoting government transparency in Peru. My role focuses on building a pipeline to scrape and extract key information from Peruvian congressional documents, building a compreshensive database of bills and other legislative actions. More on this soon! 
 
 ## Projects from Previous Coursework
 🏡 [**Affordable Housing and Green Space Equity in Chicago**](https://github.com/evanfantozzi/GreenSpaceAccess) – Used **Python and Dash** to scrape open-source map data and reviews from Google and Yelp on parks and fields in Chicago, develop an accessibility index to quantify affordable housing units' access to high-quality green spaces in Chicago, and present findings in an interactive dashboard.
