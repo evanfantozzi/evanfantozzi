@@ -1,8 +1,10 @@
 # Hello!
-I'm a computer science and public policy student at the University of Chicago. I'm passionate about solving complex problems related to social impact, and enjoy working across different topic areas. Before this, I worked on impact evaluations at **Mathematica** where I collected, cleaned, and analyzed survey and administrative data for organizations like the Milennium Challenge Corporation and the Gates Foundation. I then transitioned to **Vera Solutions**, where I designed and improved relational data systems for nonprofits and foundations using Salesforce.
+I'm a computer science and public policy student at the University of Chicago. I'm passionate about solving complex problems related to social impact, and enjoy working across different topic areas. Before this, I worked on impact evaluations at **Mathematica** where I collected, cleaned, and analyzed survey and administrative data for organizations like the Milennium Challenge Corporation and the Gates Foundation. I then transitioned to **Vera Solutions**, where I designed and improved relational data systems for nonprofits and foundations using Salesforce. 
 
-## What I'm Working On  
-📚 [**Coursework in Computer Science Applications, Databases, ML, and GIS**](https://capp.uchicago.edu/)
+Currently, I work as a Research Assistant at the **TMW Center for Early Learning + Public Health** at the University of Chicago, where I'm supporting a validation study of the Luet, a wearable device developed by the center that captures conversational turn counts and other measures of early childhood literacy. In my role, I’m developing a distributed pipeline to parse, transcribe, and analyze audio recordings from the Luet using file streaming and parallel processing. I’m developing a distributed pipeline to parse, transcribe, and analyze Luet audio recordings using file streaming and parallel processing. I’m also building a separate pipeline to extract structured data from standardized academic and cognitive assessments used for comparison in the study.
+
+
+## Projects I'm Working On  
 
 🎧 [**Your Spotify World**](https://github.com/evanfantozzi/spotify_map) – A web app built with **Django** and **MySQL** that lets Spotify users map where their favorite artists are from around the world. It pulls data from the Spotify, MusicBrainz, and Nominatim APIs. Check out the [live version here](https://evanfantozzi.pythonanywhere.com) — [message me](mailto:evanfantozzi@gmail.com) to be added as a beta user!
 
