@@ -6,7 +6,7 @@ I currently work as a Research Assistant at the **TMW Center for Early Learning 
 
 ## Personal Projects I'm Working On  
 
-🎧 [**Your Spotify World**](https://github.com/evanfantozzi/spotify_map) – A web app built with **Django** and **MySQL** that lets Spotify users map where their favorite artists are from around the world. It pulls data from the Spotify, MusicBrainz, and Nominatim APIs. Check out the [live version here](https://evanfantozzi.pythonanywhere.com) — [message me](mailto:evanfantozzi@gmail.com) to be added as a beta user!
+🎧 [**Your Spotify World**](https://github.com/evanfantozzi/spotify_map) – A web app built with **Django** and **MySQL** that lets Spotify users map where their favorite artists are from around the world. It pulls data from the Spotify, MusicBrainz, and Nominatim APIs. Check out the [live version here](https://evanfantozzi.pythonanywhere.com) — [just message me first](mailto:evanfantozzi@gmail.com) to be added as a beta user!
 
 🎨 [**Chicago Activity Finder**](https://github.com/evanfantozzi/ChicagoActivities) – A web app built with **Flask** and **SQLite** that addresses limitations with existing municipal websites, helping residents of Chicago easily find city-sponsored programming near them. Users can filter by distance, activity types, and age groups, using an interactive interface with Leaflet maps and geolocation. The app scrapes real-time data from the Chicago Park District API, deduplicates activities, and supports paginated results with dynamic filtering. Check out the [live version here](https://chicagoactivities.onrender.com).
 
