@@ -13,9 +13,11 @@ Currently, I work as a Research Assistant at the **TMW Center for Early Learning
 📜 **OpenPeru** - Core team member of a civic tech project promoting government transparency in Peru. My role focuses on building a pipeline to scrape and extract key information from Peruvian congressional documents, building a compreshensive database of bills and other legislative actions. More on this soon! 
 
 ## Projects from Previous Coursework
-🏡 [**Affordable Housing and Green Space Equity in Chicago**](https://github.com/evanfantozzi/GreenSpaceAccess) – Used **Python and Dash** to scrape open-source map data and reviews from Google and Yelp on parks and fields in Chicago, develop an accessibility index to quantify affordable housing units' access to high-quality green spaces in Chicago, and present findings in an interactive dashboard.
+🏡 [**Affordable Housing and Green Space Equity in Chicago**](https://github.com/evanfantozzi/GreenSpaceAccess) – Used **HTTPX** to scrape open-source map data and reviews from Google and Yelp on parks and fields in Chicago, develop an accessibility index to quantify affordable housing units' access to high-quality green spaces in Chicago, and present findings in an interactive dashboard through **Dash**.
 
-🎤 **Identifying Extremist Text in Social Media Posts** - Building a ML model to detect progaganda in political tweets. More on this soon! 
+🎤 [**Classifying Far-Right Extremism in Social Media**](https://github.com/evanfantozzi/Extremist-Social-Media-Post-Detector/) - Trained a non-linear Support Vector Machine using **scikit-learn** to predict the likelihood that an English-language social media post expresses far-right extremist content. Engineered features include vector-based semantic similarity, text subjectivity, toxicity scores, and the presence of profane or insider extremist terms. Manually labeled 4,670 posts to create training dataset. Deployed the model via a **Flask** web app to accept new text input and return predictions in real time.
+
+
 
 
 ## 🌱 What I'm Looking For  
