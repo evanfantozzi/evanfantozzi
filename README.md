@@ -20,7 +20,7 @@ Currently, I work as a Research Assistant at the **TMW Center for Early Learning
 
 
 
-## 🌱 What I'm Looking For  
+## What I'm Looking For  
 - Opportunities to contribute to small/mid-sized organizations that focus on social impact.  
 - Mentorship and collaboration, especially in fast-paced, technical environments.  
 
