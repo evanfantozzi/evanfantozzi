@@ -11,7 +11,7 @@ I currently work as a Research Assistant with the Data Science Team at the **TMW
 
 📜 **OpenPeru** - Core team member of a civic tech project promoting government transparency in Peru. My role focuses on building a pipeline to scrape and extract key information from Peruvian congressional documents, building a compreshensive database of bills and other legislative actions. More on this soon! 
 
-## Projects from Coursework
+## Team Projects from Coursework
 🏡 [**Affordable Housing and Green Space Equity in Chicago**](https://github.com/evanfantozzi/GreenSpaceAccess) – Used **HTTPX** to scrape open-source map data and reviews from Google and Yelp on parks and fields in Chicago, developed an accessibility index to quantify affordable housing units' access to high-quality green spaces in Chicago, and presented findings in an interactive dashboard through **Dash**.
 
 🎤 [**Classifying Far-Right Extremism in Social Media**](https://github.com/evanfantozzi/Extremist-Social-Media-Post-Detector/) – Trained a non-linear Support Vector Machine using **scikit-learn** to predict the likelihood that an English-language social media post expresses far-right extremist content. Engineered features include vector-based semantic similarity, text subjectivity, text toxicity, and the presence of profane or insider extremist terms. Manually labeled 4,670 posts to create training dataset. Deployed the model via a **Flask** web app to accept new text input and return predictions in real time.
