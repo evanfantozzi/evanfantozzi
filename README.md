@@ -3,7 +3,7 @@ I'm a computer science and public policy student at the University of Chicago. I
 
 I currently work as a Research Assistant with the Data Science Team at the **TMW Center for Early Learning + Public Health at the University of Chicago**, where I support a validation study of the Luet—a wearable device developed by the center to capture conversational turn counts and other indicators of early childhood language development. I’m building a pipeline to parse, transcribe, and analyze Luet audio recordings using parallel processing. I’m also developing infrastructure to extract structured data from standardized academic and cognitive assessments, used to benchmark language development metrics in the study’s analyses. Lastly, I'm developing an internal web application to manage and process classroom videos, using AWS MediaConvert and S3 to handle video merging.
 
-## Personal Projects I'm Working On  
+## Personal Projects   
 
 🎧 [**Your Spotify World**](https://github.com/evanfantozzi/spotify_map) – A web app built with **Django** and **MySQL** that lets Spotify users map where their favorite artists are from around the world. It pulls data from the Spotify, MusicBrainz, and Nominatim APIs. Check out the [live version here](https://evanfantozzi.pythonanywhere.com) — [just message me first](mailto:evanfantozzi@gmail.com) to be added as a beta user!
 
@@ -11,7 +11,7 @@ I currently work as a Research Assistant with the Data Science Team at the **TMW
 
 📜 **OpenPeru** - Core team member of a civic tech project promoting government transparency in Peru. My role focuses on building a pipeline to scrape and extract key information from Peruvian congressional documents, building a compreshensive database of bills and other legislative actions. More on this soon! 
 
-## Team Projects from Coursework
+## Team Projects 
 🏡 [**Affordable Housing and Green Space Equity in Chicago**](https://github.com/evanfantozzi/GreenSpaceAccess) – Used **HTTPX** to scrape open-source map data and reviews from Google and Yelp on parks and fields in Chicago, developed an accessibility index to quantify affordable housing units' access to high-quality green spaces in Chicago, and presented findings in an interactive dashboard through **Dash**.
 
 🎤 [**Classifying Far-Right Extremism in Social Media**](https://github.com/evanfantozzi/Extremist-Social-Media-Post-Detector/) – Trained a non-linear Support Vector Machine using **scikit-learn** to predict the likelihood that an English-language social media post expresses far-right extremist content. Engineered features include vector-based semantic similarity, text subjectivity, text toxicity, and the presence of profane or insider extremist terms. Manually labeled 4,670 posts to create training dataset. Deployed the model via a **Flask** web app to accept new text input and return predictions in real time.
