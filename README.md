@@ -9,7 +9,7 @@ I currently work as a Research Assistant with the Data Science Team at the **TMW
 
 🎤 [**Classifying Far-Right Extremism in Social Media**](https://github.com/evanfantozzi/Extremist-Social-Media-Post-Detector/) – Trained a non-linear Support Vector Machine using **scikit-learn** to predict the likelihood that an English-language social media post expresses far-right extremist content. Engineered features include vector-based semantic similarity, text subjectivity, text toxicity, and the presence of profane or insider extremist terms. Manually labeled 4,670 posts to create training dataset. Deployed the model via a **Flask** web app to accept new text input and return predictions in real time.
 
-🇹🇷 [**Mapping the 2023 Turkey Earthquake**](https://github.com/evanfantozzi/Mapping-2023-Turkiye-Earthquake) – Used **ArcGIS Pro** to analyze the effects of the 2023 earthquake on infrastructure and demography in Turkey. Mapped extensive building and road damage in affected areas, highlighted the displacement of millions, and emphasized the need for resilient infrastructure and post-disaster investment to aid long-term recovery.
+🇹🇷 [**Mapping the 2023 Turkey Earthquake**](https://github.com/evanfantozzi/Mapping-2023-Turkey-Earthquake) – Used **ArcGIS Pro** to analyze the effects of the 2023 earthquake on infrastructure and demography in Turkey. Mapped extensive building and road damage in affected areas, highlighted the displacement of millions, and emphasized the need for resilient infrastructure and post-disaster investment to aid long-term recovery.
 
 ## Personal Projects   
 
