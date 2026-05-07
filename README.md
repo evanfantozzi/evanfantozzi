@@ -11,7 +11,7 @@ I currently work as a Research Assistant with the Data Science Team at the **TMW
 
 🇹🇷 [**Mapping the 2023 Turkey Earthquake**](https://github.com/evanfantozzi/Mapping-2023-Turkey-Earthquake) – Used **ArcGIS Pro** to analyze the effects of the 2023 earthquake on infrastructure and demography in Turkey. Mapped extensive building and road damage in affected areas, highlighted the displacement of millions, and emphasized the need for resilient infrastructure and post-disaster investment to aid long-term recovery.
 
-## Personal Projects   
+## Solo Projects   
 🏀 [**Parallelizing a Simulated Fantasy-style NBA Draft**](https://github.com/evanfantozzi/NBA-Draft-Simulator) – A simulation of a parallelized fantasy-style NBA draft. Built in **Go**, the simulator assigns players to teams using an evaluation system that continuously checks statistical and categorical needs, exporting full team depth charts and a draft summaries. The project includes two parallel and one sequential implementations of the simulation, exploring the benefit of multithreading when increasing the draft pool by up to 100,000 randomly generated players. 
 
 📺 [**Modeling Humor and Emotion in Scrubs**](https://github.com/evanfantozzi/Scrubs-Analysis) – Built an end-to-end NLP pipeline in **PyTorch** to analyze how humor and emotional intensity shape audience reactions to episodes of Scrubs. Scraped episode transcripts and IMDb ratings, manually labeled a sample of episodes, and trained a fine-tuned DeBERTa model alongside prompted Gemini 2.5 models to predict how funny and sad individual scenes are. I used these predictions to model IMDb ratings, finding that emotional variance accounts for roughly 18% of rating variability.
