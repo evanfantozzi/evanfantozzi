@@ -1,7 +1,7 @@
 # Hello, I'm Evan!
 I'm a computer science and public policy student at the University of Chicago. I'm passionate about solving complex problems related to social impact, and enjoy working across areas such as education, health, and international development. Before this, I worked on impact evaluations at **Mathematica**, where I collected, cleaned, and analyzed survey and administrative data for organizations like the Gates Foundation, U.S. Department of Labor, and Millennium Challenge Corporation. I then transitioned to **Vera Solutions**, where I designed and managed relational data systems for nonprofits and foundations, overseeing data migrations, building automation workflows, and creating reports and dashboards.
 
-I currently work as a Research Assistant with the Data Science Team at the **TMW Center for Early Learning + Public Health at the University of Chicago**, where I support a validation study of the Luet—a wearable device developed by the center to capture conversational turn counts and other indicators of early childhood language development. I’m building a pipeline to parse, transcribe, and analyze Luet audio recordings using parallel processing, and to extract structured data from corresponding standardized academic and cognitive assessments. Lastly, I'm developing an internal web application to manage and process classroom videos, using AWS MediaConvert and S3 to handle video merging.
+I currently work as a Research Assistant with the Data Science Team at the **TMW Center for Early Learning + Public Health at the University of Chicago**, where I support a validation study of the Luet—a wearable device developed by the center to capture conversational turn counts and other indicators of early childhood language development. I'm building a pipeline to parse, transcribe, and analyze Luet audio recordings using parallel processing, and to extract structured data from corresponding standardized academic and cognitive assessments. Lastly, I'm developing an internal web application to manage and process classroom videos, using AWS MediaConvert and S3 to handle video merging.
 
 
 ## Team Projects 
@@ -20,10 +20,17 @@ I currently work as a Research Assistant with the Data Science Team at the **TMW
 
 🎧 [**Your Spotify World**](https://github.com/evanfantozzi/spotify_map) – A web app built with **Django** and **MySQL** that lets Spotify users map where their favorite artists are from around the world. It pulls data from the Spotify, MusicBrainz, and Nominatim APIs. Check out the [live version here](https://evanfantozzi.pythonanywhere.com) — [just message me first](mailto:evanfantozzi@gmail.com) to be added as a beta user!
 
+## Code Samples
+A curated set of code samples across cloud infrastructure, data engineering, and applied ML: [**github.com/evanfantozzi/code-samples**](https://github.com/evanfantozzi/code-samples)
+
+- ☁️ **Genomic Annotation Service** – Flask + AWS (S3, SQS, SNS, DynamoDB, EC2) backend for a genomic annotation platform with presigned uploads and an SQS-driven worker service
+- 🗄️ **InsightOut** – Django data pipeline for ingesting DHS global health survey data into a PostGIS database, with atomic transactions and in-memory caching across large datasets
+- 🤖 **Scrubs NLP Analysis** – Fine-tuned DeBERTa (HuggingFace/PyTorch) to classify TV scenes by humor and emotional intensity, then modeled IMDb ratings from scene-level predictions
+
 ## What I'm Looking For  
 - Opportunities to contribute to small/mid-sized organizations that focus on social impact.  
 - Mentorship and collaboration, especially in fast-paced, technical environments.  
 
 ---
 
-Let's connect!   
+Let's connect!
