@@ -21,11 +21,11 @@ I currently work as a Research Assistant with the Data Science Team at the **TMW
 🎧 [**Your Spotify World**](https://github.com/evanfantozzi/spotify_map) – A web app built with **Django** and **MySQL** that lets Spotify users map where their favorite artists are from around the world. It pulls data from the Spotify, MusicBrainz, and Nominatim APIs. Check out the [live version here](https://evanfantozzi.pythonanywhere.com) — [just message me first](mailto:evanfantozzi@gmail.com) to be added as a beta user!
 
 ## Code Samples
-A curated set of code samples across cloud infrastructure, data engineering, and applied ML: [**github.com/evanfantozzi/code-samples**](https://github.com/evanfantozzi/code-samples)
+A set of code samples across cloud computing, data engineering, and applied ML: [**github.com/evanfantozzi/code-samples**](https://github.com/evanfantozzi/code-samples)
 
-- ☁️ **Genomic Annotation Service** – Flask + AWS (S3, SQS, SNS, DynamoDB, EC2) backend for a genomic annotation platform with presigned uploads and an SQS-driven worker service
-- 🗄️ **InsightOut** – Django data pipeline for ingesting DHS global health survey data into a PostGIS database, with atomic transactions and in-memory caching across large datasets
-- 🤖 **Scrubs NLP Analysis** – Fine-tuned DeBERTa (HuggingFace/PyTorch) to classify TV scenes by humor and emotional intensity, then modeled IMDb ratings from scene-level predictions
+- **Genomic Annotation Service** – Flask + AWS (S3, SQS, SNS, DynamoDB, EC2) backend for a genomic annotation platform with presigned uploads and an SQS-driven worker service
+- **InsightOut** – Django data pipeline for ingesting DHS global health survey data into a PostGIS database, with atomic transactions and in-memory caching across large datasets
+- **Scrubs NLP Analysis** – Fine-tuned DeBERTa (HuggingFace/PyTorch) to classify TV scenes by humor and emotional intensity, then modeled IMDb ratings from scene-level predictions
 
 ## What I'm Looking For  
 - Opportunities to contribute to small/mid-sized organizations that focus on social impact.  
